@@ -42,3 +42,8 @@ SOFTSKILS
 >Умение работать в условиях многозадачности
   
 >Нацеленность на результат, надёжность
+
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
+<img src="https://mir-s3-cdn-cf.behance.net/projects/max_808/f24399104326413.Y3JvcCwyODM1LDIyMTcsMCwzMDg.png" title="angular" width="50" height="40"/>&nbsp;
+<img src="https://pvtest.ru/wp-content/uploads/8/c/5/8c5c3e565fdff8cc07b3e5885c5ce9b2.jpeg" title="google" width="80" height="40"/>&nbsp;
