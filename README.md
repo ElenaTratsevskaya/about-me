@@ -37,12 +37,12 @@ SOFTSKILS
 - Умение работать в условиях многозадачности
 - Нацеленность на результат, надёжность
 
-### About me
-- 🌱 I'm currently learning **BI, DA**
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/elena-tr-a0bb3342/recent-activity/shares/)
-- 📄 Know about my experiences [CV](https://disk.yandex.ru/d/p0NXT8QbFfawlg)
-- 📫 Reach me by [Telegramm](t.me/elena_trr), [email](elena-ne@list.ru)
-- 🌍 I speak Deutsch
+### Обо мне
+- 🌱 Активно изучаю **BI, DA**
+- 📝 Регулярно пишу статьи на [LinkedIn](https://www.linkedin.com/in/elena-tr-a0bb3342/recent-activity/shares/)
+- 📄 Посмотрите моё резюме [CV](https://disk.yandex.ru/d/p0NXT8QbFfawlg)
+- 📫 Со мной можно связаться [Telegramm](t.me/elena_trr)
+- 🌍 Мой второй язык - немецкий
 
 ### Некоторые кейсы
 - Хакатон МЭЦ (Московский экспортный центр)  [Анализ наиболее уязвимых мест в выпадающем из-за санкций экспорте Москвы на основе данных ФТС](https://docs.google.com/spreadsheets/d/15KC6h2NDxStrkNJAvQLOxy9itxK1qdTNCzO5R8ywO1Y/edit#gid=1492720701)-
