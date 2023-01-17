@@ -11,7 +11,7 @@
 	</a>
 </div>
 
-**ОСНОВНЫЕ КОМПЕТЕНЦИИ**
+### ОСНОВНЫЕ КОМПЕТЕНЦИИ
 
 HARDSKILS
 - Python, Pandas
@@ -43,5 +43,14 @@ SOFTSKILS
 - 📄 Know about my experiences [CV](https://disk.yandex.ru/d/p0NXT8QbFfawlg)
 - 📫 Reach me by [Telegramm](t.me/elena_trr), [email](elena-ne@list.ru)
 - 🌍 I speak Deutsch
+
+### Некоторые кейсы
+- Хакатон МЭЦ (Московский экспортный центр)  [Анализ наиболее уязвимых мест в выпадающем из-за санкций экспорте Москвы на основе данных ФТС](https://docs.google.com/spreadsheets/d/15KC6h2NDxStrkNJAvQLOxy9itxK1qdTNCzO5R8ywO1Y/edit#gid=1492720701)-
+- Проект SQL [АНАЛИЗ РАБОТЫ КОМПАНИИ С ЦЕЛЬЮ МАСШТАБИРОВАНИЯ БИЗНЕСА](docs.google.com/document/d/1Ix89fG4nWibCJfOFcJwpOQcSqrW2ntnRdz_qAmhKg9I/edit#)
+
+### Хобби
+- Люблю фотографировать. Участвую в фотокэмпах [Моё портфолио на shutterstock](https://www.shutterstock.com/ru/g/Elena_Tr/sets)
+
+
 
 
