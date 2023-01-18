@@ -50,7 +50,7 @@
 ### Некоторые кейсы
 - Хакатон МЭЦ (Московский экспортный центр), призовое место. Проект:
 [Анализ наиболее уязвимых мест в выпадающем из-за санкций экспорте Москвы на основе данных ФТС - Федеральной таможенной службы](https://docs.google.com/spreadsheets/d/15KC6h2NDxStrkNJAvQLOxy9itxK1qdTNCzO5R8ywO1Y/edit#gid=1492720701)
-- Проект SQL: [Анализ работы компании с целью масштабирования бизнеса](docs.google.com/document/d/1Ix89fG4nWibCJfOFcJwpOQcSqrW2ntnRdz_qAmhKg9I/edit#)
+- Проект SQL: [Анализ работы компании с целью масштабирования бизнеса](https://docs.google.com/document/d/1Ix89fG4nWibCJfOFcJwpOQcSqrW2ntnRdz_qAmhKg9I/edit#)
 
 ### Хобби
 - Люблю фотографировать. Участвую в фотокэмпах. [Моё портфолио на Shutterstock](https://www.shutterstock.com/ru/g/Elena_Tr/sets)
