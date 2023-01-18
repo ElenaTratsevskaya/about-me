@@ -13,7 +13,7 @@
 
 ### ОСНОВНЫЕ КОМПЕТЕНЦИИ
 
-HARDSKILS
+<span style="color:#696969">**HARDSKILS**</span>
 - Python, Pandas
 - PostgreSQL
 - PowerBI, DAX
@@ -32,7 +32,7 @@ HARDSKILS
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" title="PowerPoint" width="40" height="40"/>&nbsp;
 <img src="https://getintopc.com/wp-content/uploads/2021/11/Adobe-Bridge-2022-Free-Download-GetintoPC.com_.jpg" title="Adobe Bridge" width="40" height="40"/>&nbsp;
 
-SOFTSKILS
+**SOFTSKILS**
 - Умение видеть всю картину бизнеса и производственного процесса
 - Системный подход к решению задач
 - Работа в команде
@@ -44,14 +44,14 @@ SOFTSKILS
 - 🌱 Активно изучаю **BI, DA** инструменты
 - 📝 Регулярно пишу статьи на [LinkedIn](https://www.linkedin.com/in/elena-tr-a0bb3342/recent-activity/shares/)
 - 📄 Посмотрите моё резюме [CV](https://disk.yandex.ru/d/p0NXT8QbFfawlg)
-- 📫 Со мной можно связаться [Telegramm](t.me/elena_trr), [эл. почта](https://e.mail.ru/inbox/)
+- 📫 Со мной можно связаться [Telegramm](https://www.t.me/elena_trr), [эл. почта](mailto:elena-ne@list.ru)
 - 🌍 Мой второй язык - немецкий
 
 ### Некоторые кейсы
-- Хакатон МЭЦ (Московский экспортный центр)  призовое место
-[Анализ наиболее уязвимых мест в выпадающем из-за санкций экспорте Москвы на основе данных ФТС](https://docs.google.com/spreadsheets/d/15KC6h2NDxStrkNJAvQLOxy9itxK1qdTNCzO5R8ywO1Y/edit#gid=1492720701)
-- Проект SQL [Анализ работы компании с целью масштабирования бизнеса](docs.google.com/document/d/1Ix89fG4nWibCJfOFcJwpOQcSqrW2ntnRdz_qAmhKg9I/edit#)
+- Хакатон МЭЦ (Московский экспортный центр), призовое место. Проект:
+[Анализ наиболее уязвимых мест в выпадающем из-за санкций экспорте Москвы на основе данных ФТС - Федеральной таможенной службы](https://docs.google.com/spreadsheets/d/15KC6h2NDxStrkNJAvQLOxy9itxK1qdTNCzO5R8ywO1Y/edit#gid=1492720701)
+- Проект SQL: [Анализ работы компании с целью масштабирования бизнеса](docs.google.com/document/d/1Ix89fG4nWibCJfOFcJwpOQcSqrW2ntnRdz_qAmhKg9I/edit#)
 
 ### Хобби
-- Люблю фотографировать. Участвую в фотокэмпах [Моё портфолио на Shutterstock](https://www.shutterstock.com/ru/g/Elena_Tr/sets)
+- Люблю фотографировать. Участвую в фотокэмпах. [Моё портфолио на Shutterstock](https://www.shutterstock.com/ru/g/Elena_Tr/sets)
 
