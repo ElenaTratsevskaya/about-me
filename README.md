@@ -6,7 +6,7 @@
 <div id="socials" align="center">
 	<a href="https://www.linkedin.com/in/elena-tr-a0bb3342/recent-activity/shares/">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-	<a href="t.me/rubachkaVcvetochek">
+	<a href="https://www.t.me/rubachkaVcvetochek">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
@@ -44,7 +44,7 @@ SOFTSKILS
 - 🌱 Активно изучаю **BI, DA** инструменты
 - 📝 Регулярно пишу статьи на [LinkedIn](https://www.linkedin.com/in/elena-tr-a0bb3342/recent-activity/shares/)
 - 📄 Посмотрите моё резюме [CV](https://disk.yandex.ru/d/p0NXT8QbFfawlg)
-- 📫 Со мной можно связаться [Telegramm](t.me/elena_trr), [эл. почта]([elena-ne@list.ru](https://e.mail.ru/inbox/))
+- 📫 Со мной можно связаться [Telegramm](t.me/elena_trr), [эл. почта](https://e.mail.ru/inbox/)
 - 🌍 Мой второй язык - немецкий
 
 ### Некоторые кейсы
