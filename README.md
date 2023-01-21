@@ -43,7 +43,7 @@
 ### Обо мне<br>
 🌱 Активно изучаю **BI & DA** инструменты<br>
 📝 Регулярно пишу статьи на [LinkedIn](https://www.linkedin.com/in/elena-tr-a0bb3342/recent-activity/shares/)<br>
-📄 Посмотрите моё резюме [CV](https://disk.yandex.ru/d/p0NXT8QbFfawlg)<br>
+📄 Посмотрите моё резюме [CV](https://disk.yandex.ru/i/8i65f37qmjKxeA)<br>
 📫 Со мной можно связаться [Telegramm](https://www.t.me/elena_trr), [эл. почта](mailto:elena-ne@list.ru)<br>
 🌍 Мой второй язык - немецкий<br>
 
