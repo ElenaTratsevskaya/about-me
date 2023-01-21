@@ -14,7 +14,7 @@
 ### ОСНОВНЫЕ КОМПЕТЕНЦИИ
 
 <span style="color:#696969">**HARDSKILS**</span>
-- Python, Pandas
+- Python Pandas
 - PostgreSQL
 - PowerBI, DAX
 - Гугл-таблицы, Excel
