@@ -53,5 +53,5 @@
 - Проект SQL: [Анализ работы компании с целью масштабирования бизнеса](https://docs.google.com/document/d/1Ix89fG4nWibCJfOFcJwpOQcSqrW2ntnRdz_qAmhKg9I/edit#)
 
 ### Хобби<br>
-Люблю фотографировать. Участвую в фотокэмпах. [Моё портфолио на Shutterstock](https://www.shutterstock.com/ru/g/Elena_Tr/sets)
-
+Люблю фотографировать. Участвую в фотокэмпах. [Моё портфолио на Shutterstock](https://www.shutterstock.com/ru/g/Elena_Tr/sets)<br>
+Немецкий язык и литература. Изучала язык в Гёте Институте СПб и Мюнхене(Fernlernen) [Эссе на немецком яз. с комментариями и переводом](https://hhhhhhhhl.livejournal.com/50163.html)<br>
