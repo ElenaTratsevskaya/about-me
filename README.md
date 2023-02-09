@@ -16,7 +16,7 @@
 <span style="color:#696969">**HARDSKILS**</span>
 - Python Pandas
 - PostgreSQL
-- PowerBI, DAX
+- PowerBI, Power Query, DAX
 - Гугл-таблицы, Excel
 - PowerPoint, Adobe Bridge
 
