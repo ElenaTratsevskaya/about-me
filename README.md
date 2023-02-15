@@ -43,7 +43,7 @@
 🌱 Владею **BI & DA** инструментами<br>
 📝 Регулярно пишу статьи на [LinkedIn](https://www.linkedin.com/in/elena-tr-a0bb3342/recent-activity/shares/)<br>
 📄 Имею техническое и бизнес образование, посмотрите моё резюме [CV](https://disk.yandex.ru/i/YcfJvuMF89shPw)<br>
-📄 Рекомендация на LinkedIn от [Program Manager/Head of Application Development in Software Factory, T-Systems International](https://www.linkedin.com/in/elena-tratsevskaya-a0bb3342/)<br>
+📄 Рекомендация на LinkedIn от [Program Manager/Head of Application Development in Software Factory,    T-Systems International](https://www.linkedin.com/in/elena-tratsevskaya-a0bb3342/)<br>
 📫 Со мной можно связаться [Telegramm](https://www.t.me/elena_trr), [эл. почта](mailto:elena-ne@list.ru)<br>
 🌍 Мой второй язык - немецкий<br>
 
