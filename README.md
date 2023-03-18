@@ -14,10 +14,10 @@
 ### ОСНОВНЫЕ КОМПЕТЕНЦИИ
 
 <span style="color:#696969">**HARDSKILS**</span>
-- Python Pandas
+- Python, Pandas, NumPy,  Matplotlib 
 - PostgreSQL
 - PowerBI, Power Query, DAX
-- Гугл-таблицы, Excel
+- Google Sheets, Excel
 - PowerPoint, Adobe Bridge
 
 <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="python" width="40" height="40"/>&nbsp;
