@@ -34,7 +34,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" title="PowerPoint" width="40" height="40"/>&nbsp;
 <img src="https://getintopc.com/wp-content/uploads/2021/11/Adobe-Bridge-2022-Free-Download-GetintoPC.com_.jpg" title="Adobe Bridge" width="40" height="40"/>&nbsp;
 	
-	https://disk.yandex.ru/i/ZGf26IWXBSnbGw
 
 **SOFTSKILS**
 - Умение видеть всю картину бизнеса и производственного процесса
