@@ -14,20 +14,20 @@
 ### ОСНОВНЫЕ КОМПЕТЕНЦИИ
 
 <span style="color:#696969">**HARDSKILS**</span>
-- Python, Pandas, NumPy,  Matplotlib 
 - PostgreSQL
 - PowerBI, Power Query, DAX
 - DWH, ETL
+- Python, Pandas, NumPy,  Matplotlib 
 - Google Sheets, Excel
 - PowerPoint, Adobe Bridge	
 - Знание матстатистики
 
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://magoarea.com/wp-content/uploads/2019/05/power-bi-microsoft-seeklogo.png" title="powerBI" width="100" height="40"/>&nbsp;
 <img src="https://maps-for-excel.com/wp-content/uploads/2017/03/power-bi-animated-800x250.gif" title="powerBI" width="145" height="40"/>&nbsp;
 <img src="https://banner2.cleanpng.com/20180629/eiq/kisspng-power-bi-data-analysis-expressions-power-pivot-bus-delimiter-5b36b79846c355.7557055115303126002899.jpg" title="dax" width="60" height="40"/>&nbsp;
 <img src="https://1.bp.blogspot.com/-j9obKaTAIFw/X2wWtmN0GmI/AAAAAAABGKQ/4xp2DEp3Dt8qc_wu-esmzTvEId8O9e4LACLcBGAsYHQ/w1200-h630-p-k-no-nu/Data%2BWarehousing%2BAdopts%2Bthe%2BPrinciples%2Bof%2BFederalism.jpg" title="ETL" width="110" height="50"/>&nbsp;
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://pvtest.ru/wp-content/uploads/8/c/5/8c5c3e565fdff8cc07b3e5885c5ce9b2.jpeg" title="google" width="80" height="40"/>&nbsp;
 <img src="https://w7.pngwing.com/pngs/619/922/png-transparent-microsoft-excel-illustration-microsoft-excel-microsoft-office-macos-excel-rectangle-logo-microsoft.png" title="excel" width="40" height="40"/>&nbsp;
 <img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Yandex-DataLens-Logo.png" title="Yandex-DataLens" width="40" height="40"/>&nbsp;
