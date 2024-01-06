@@ -34,7 +34,6 @@
 <img src="https://w7.pngwing.com/pngs/619/922/png-transparent-microsoft-excel-illustration-microsoft-excel-microsoft-office-macos-excel-rectangle-logo-microsoft.png" title="excel" width="40" height="40"/>&nbsp;
 <img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Yandex-DataLens-Logo.png" title="Yandex-DataLens" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" title="PowerPoint" width="40" height="40"/>&nbsp;
-<img src="https://getintopc.com/wp-content/uploads/2021/11/Adobe-Bridge-2022-Free-Download-GetintoPC.com_.jpg" title="Adobe Bridge" width="40" height="40"/>&nbsp;
 	
 
 **SOFTSKILS**
