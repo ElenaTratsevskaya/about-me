@@ -33,7 +33,6 @@
 <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://pvtest.ru/wp-content/uploads/8/c/5/8c5c3e565fdff8cc07b3e5885c5ce9b2.jpeg" title="google" width="80" height="40"/>&nbsp;
 <img src="https://w7.pngwing.com/pngs/619/922/png-transparent-microsoft-excel-illustration-microsoft-excel-microsoft-office-macos-excel-rectangle-logo-microsoft.png" title="excel" width="40" height="40"/>&nbsp;
-<img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Yandex-DataLens-Logo.png" title="Yandex-DataLens" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" title="PowerPoint" width="40" height="40"/>&nbsp;
 	
 
@@ -49,7 +48,7 @@
 ### Обо мне<br>
 🌱 Владею **BI & DA** инструментами<br>
 📝 Регулярно пишу статьи на [LinkedIn](https://www.linkedin.com/in/elena-tratsevskaya-a0bb3342/)<br>
-📄 Имею техническое и бизнес образование, посмотрите моё резюме [CV](https://disk.yandex.ru/i/878eV5MoCtk7fQ)<br>
+📄 Имею техническое и бизнес образование, посмотрите моё резюме [CV](https://disk.yandex.ru/i/9D3eC8D0BzhZ8g)<br>
 📄 Рекомендация на LinkedIn от [Program Manager/Head of Application Development in Software Factory,    T-Systems International](https://www.linkedin.com/in/elena-tratsevskaya-a0bb3342/)<br>
 📫 Со мной можно связаться [Telegramm](https://www.t.me/elena_trr), [эл. почта](mailto:elena-ne@list.ru)<br>
 🌍 Мой второй язык - немецкий<br>
