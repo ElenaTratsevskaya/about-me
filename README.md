@@ -23,7 +23,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://maps-for-excel.com/wp-content/uploads/2017/03/power-bi-animated-800x250.gif" title="powerBI" width="145" height="40"/>&nbsp;
-<img src="https://banner2.cleanpng.com/20180629/eiq/kisspng-power-bi-data-analysis-expressions-power-pivot-bus-delimiter-5b36b79846c355.7557055115303126002899.jpg" title="dax" width="60" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DAX-logo.svg/1200px-DAX-logo.svg.png" title="dax" width="60" height="40"/>&nbsp;
 <img src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma" title="powerBI" width="40" height="40"/>&nbsp;
 <img src="https://1.bp.blogspot.com/-j9obKaTAIFw/X2wWtmN0GmI/AAAAAAABGKQ/4xp2DEp3Dt8qc_wu-esmzTvEId8O9e4LACLcBGAsYHQ/w1200-h630-p-k-no-nu/Data%2BWarehousing%2BAdopts%2Bthe%2BPrinciples%2Bof%2BFederalism.jpg" title="ETL" width="110" height="50"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/1200px-Diagrams.net_Logo.svg.png" title="sql" width="40" height="40"/>&nbsp;
@@ -46,7 +46,6 @@
 🌱 Владею **BI & DA** инструментами<br>
 📝 Регулярно пишу статьи на [LinkedIn](https://www.linkedin.com/in/elena-tratsevskaya-a0bb3342/)<br>
 📄 Имею техническое и бизнес образование, посмотрите моё резюме [CV](https://disk.yandex.ru/i/TyEPYQ8ko1M4HA)<br>
-📄 Рекомендация на LinkedIn от [Program Manager/Head of Application Development in Software Factory,    T-Systems International](https://www.linkedin.com/in/elena-tratsevskaya-a0bb3342/)<br>
 📫 Со мной можно связаться [Telegramm](https://www.t.me/elena_trr), [эл. почта](mailto:elena-ne@list.ru)<br>
 🌍 Мой второй язык - немецкий<br>
 
