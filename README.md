@@ -55,5 +55,9 @@
 - Хакатон СберИндекс: [Номинация «ВИЗУАЛИЗАЦИЯ ДАННЫХ и ИНФОГРАФИКА»](https://github.com/ElenaTratsevskaya/Sber-Index-Hackathon_Data-Sense)
 
 ### Хобби<br>
-Люблю фотографировать. Участвую в фотокэмпах. [Моё портфолио на Shutterstock](https://www.shutterstock.com/ru/g/Elena_Tr/sets)<br>
-Немецкий язык и литература. Изучала язык в Гёте Институте СПб и Мюнхене(Fernlernen)<br> [Моё эссе на немецком яз. с комментариями и переводом](https://hhhhhhhhl.livejournal.com/50163.html)<br>
+- Увлекаюсь Дата Артом.<br>
+Проект "Портрет сообщества", стал материалом для статьи в Nichtingale — journal of the Data Vizualization Society. Журнал является частью проекта Data Vizualization Society — Место встречи практиков и энтузиастов визуализации данных.
+Это некоммерческая организация, управляемая волонтерами и ставящая перед собой три основные цели: пропагандировать и развивать сферу визуализации данных.
+[Plastic Portrait: Visualizing Technical Skills Through Cable Ties](https://nightingaledvs.com/plastic-portrait-cable-ties/)<br>
+- Люблю фотографировать. Участвую в фотокэмпах. [Моё портфолио на Shutterstock](https://www.shutterstock.com/ru/g/Elena_Tr/sets)<br>
+- Немецкий язык и литература. Изучала язык в Гёте Институте СПб и Мюнхене(Fernlernen)<br> [Моё эссе на немецком яз. с комментариями и переводом](https://hhhhhhhhl.livejournal.com/50163.html)<br>
