@@ -23,10 +23,10 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://maps-for-excel.com/wp-content/uploads/2017/03/power-bi-animated-800x250.gif" title="powerBI" width="145" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DAX-logo.svg/1200px-DAX-logo.svg.png" title="dax" width="60" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DAX-logo.svg/1280px-DAX-logo.svg.png" title="dax" width="128" height="52"/>&nbsp;
 <img src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma" title="powerBI" width="40" height="40"/>&nbsp;
 <img src="https://1.bp.blogspot.com/-j9obKaTAIFw/X2wWtmN0GmI/AAAAAAABGKQ/4xp2DEp3Dt8qc_wu-esmzTvEId8O9e4LACLcBGAsYHQ/w1200-h630-p-k-no-nu/Data%2BWarehousing%2BAdopts%2Bthe%2BPrinciples%2Bof%2BFederalism.jpg" title="ETL" width="110" height="50"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/1200px-Diagrams.net_Logo.svg.png" title="sql" width="40" height="40"/>&nbsp;
+<img src="https://i.pinimg.com/736x/27/45/30/2745305c9702bceee2525cc24e1d00c2.jpg" title="sql" width="74" height="42"/>&nbsp;
 <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://i.pinimg.com/736x/1d/61/41/1d6141338deef1c59eb93c19f8a11eb0.jpg" title="google" width="80" height="40"/>&nbsp;
 <img src="https://w7.pngwing.com/pngs/619/922/png-transparent-microsoft-excel-illustration-microsoft-excel-microsoft-office-macos-excel-rectangle-logo-microsoft.png" title="excel" width="40" height="40"/>&nbsp;
